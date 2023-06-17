@@ -335,7 +335,7 @@ const LandingPage = () => {
         <footer>
           <Container sx={{ textAlign: 'center', padding: '30px' }}>
             <Typography variant="body2" color="textSecondary" gutterBottom>
-              Contact us at info@foodiehub.com or +1 123-456-7890
+              Contact us at MohamedAbdelmoety3@gmail.com or +97433476222
             </Typography>
           </Container>
         </footer>
