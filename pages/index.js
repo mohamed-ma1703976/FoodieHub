@@ -145,9 +145,10 @@ const LandingPage = () => {
                   <Typography variant="body1" align="center" gutterBottom style={{ color: '#004d40' }}>
                     FoodieHub, for cooking enthusiasts and supports those with food allergies and helps manage ingredients to reduce food waste.
                   </Typography>
-                  <Button variant="contained" color="primary" size="large">
-                    Get Started
-                  </Button>
+                  <Button variant="contained" color="primary" size="large" href="https://forms.gle/717sf4ppFZvJ1PTD7" target="_blank">
+  Give Feedback
+</Button>
+
                 </Grid>
               </motion.div>
             </Grid>
